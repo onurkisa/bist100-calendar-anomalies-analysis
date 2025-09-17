@@ -1,4 +1,4 @@
-# **Analysis of calendar Anomalies in the BIST100 Index (2015-2025)**
+# **Analysis of Calendar Anomalies in the BIST100 Index (2015-2025)**
 
 ##  Summary
 
