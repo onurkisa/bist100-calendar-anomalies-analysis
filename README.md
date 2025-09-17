@@ -76,7 +76,9 @@ Post-hoc analyses revealed this effect was driven exclusively by the **Thursday-
 **No Statistical Evidence:** Standard ANOVA found no significant differences across calendar months (F = 1.1105, p = 0.359359). This result indicates an absence of a month-of-the-year effect in BIST100 returns during the 2015-2025 period.
 
 ### **Overall Assessment**
+
 These findings contribute to the broader literature on market efficiency and calendar anomalies in emerging markets. The minimal explanatory power of detected day-of-the-week effects, combined with the complete absence of monthly patterns, suggests that calendar anomaly patterns are either non-existent or too small for meaningful exploitation in the BIST100 returns during 2015-2025.
+
 ---
 ## Disclaimer
 
