@@ -86,7 +86,7 @@ This analysis is for academic and informational purposes only. This analysis is 
 
 ---
 
-**Reading Recommendation:** Rossi, M. (2015). The Efficient Market Hypothesis and Calendar Anomalies: A Literature Review. *International Journal of Managerial and Financial Accounting, 7*(3/4), 285–296. https://doi.org/10.1504/IJMFA.2015.074913
+**Reading Recommendation:** Rossi, M. (2015). The Efficient Market Hypothesis and Calendar Anomalies: A Literature Review. *International Journal of Managerial and Financial Accounting, 7*(3/4), 285. [DOI:10.1504/IJMFA.2015.074905](http://dx.doi.org/10.1504/IJMFA.2015.074905)
 
 ---
 ## License
